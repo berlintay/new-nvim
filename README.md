@@ -1,0 +1,2 @@
+# new-nvim
+New Config
